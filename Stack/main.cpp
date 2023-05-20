@@ -1,5 +1,5 @@
-#include "Stack.cpp"
-
+#include "Stack.h"
+#include <iostream>
 int main()
 {
 	Stack<int> a;
